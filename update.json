@@ -1,7 +1,7 @@
 {
-  "versionCode": 255,
-  "versionName": "2.5",
+  "versionCode": 257,
+  "versionName": "2.7",
   "apkUrl": "https://github.com/psdansouza10-spec/fujaz-play-update/releases/latest/download/FUJAZ-PLAY.apk",
   "obrigatoria": false,
-  "mensagem": "Nova versão do FUJAZ PLAY disponível!\n\n• Busca corrigida no Fire TV\n• Melhorias no teclado de pesquisa\n• Jogos de Hoje reorganizados\n• Correções nos horários, escudos e canais\n• Melhorias de estabilidade e compatibilidade"
+  "mensagem": "Nova versão do FUJAZ PLAY disponível!\n\n• Correção no carregamento de temporadas e episódios de séries\n• Recuperação automática quando a lista de episódios falhar\n• Melhorias no botão Atualizar conteúdos para renovar os dados das séries\n• Correção no foco do botão Tentar novamente\n• Melhorias gerais de estabilidade"
 }
