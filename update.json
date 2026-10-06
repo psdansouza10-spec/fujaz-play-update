@@ -1,7 +1,7 @@
 {
-  "versionCode": 257,
-  "versionName": "2.7",
-  "apkUrl": "https://github.com/psdansouza10-spec/fujaz-play-update/releases/latest/download/FUJAZ-PLAY.apk",
-  "obrigatoria": false,
-  "mensagem": "Nova versão do FUJAZ PLAY disponível!\n\n• Correção no carregamento de temporadas e episódios de séries\n• Recuperação automática quando a lista de episódios falhar\n• Melhorias no botão Atualizar conteúdos para renovar os dados das séries\n• Correção no foco do botão Tentar novamente\n• Melhorias gerais de estabilidade"
+"versionCode": 258,
+"versionName": "2.8",
+"apkUrl": "https://github.com/psdansouza10-spec/fujaz-play-update/releases/latest/download/FUJAZ-PLAY.apk",
+"obrigatoria": false,
+"mensagem": "Nova versão do FUJAZ PLAY disponível!\n\n• Melhorias na reprodução de Canais e Futebol\n• Nova recuperação automática em travamentos, buffering e falhas de transmissão\n• Melhorias na troca de qualidade, atualização e reabertura automática dos canais\n• Maior estabilidade e compatibilidade entre os players\n• Melhorias no carregamento e atualização dos conteúdos\n• Melhorias gerais de desempenho e estabilidade\n• Visual renovado em várias áreas do aplicativo, com foco e navegação mais modernos"
 }
