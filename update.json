@@ -1,7 +1,8 @@
+
 {
-"versionCode": 258,
-"versionName": "2.8",
-"apkUrl": "https://github.com/psdansouza10-spec/fujaz-play-update/releases/latest/download/FUJAZ-PLAY.apk",
-"obrigatoria": false,
-"mensagem": "Nova versão do FUJAZ PLAY disponível!\n\n• Melhorias na reprodução de Canais e Futebol\n• Nova recuperação automática em travamentos, buffering e falhas de transmissão\n• Melhorias na troca de qualidade, atualização e reabertura automática dos canais\n• Maior estabilidade e compatibilidade entre os players\n• Melhorias no carregamento e atualização dos conteúdos\n• Melhorias gerais de desempenho e estabilidade\n• Visual renovado em várias áreas do aplicativo, com foco e navegação mais modernos"
+  "versionCode": 259,
+  "versionName": "2.9",
+  "apkUrl": "https://github.com/psdansouza10-spec/fujaz-play-update/releases/latest/download/FUJAZ-PLAY.apk",
+  "obrigatoria": false,
+  "mensagem": "Nova atualização do FUJAZ PLAY disponível!\n\n• Correções importantes na estabilidade e navegação dos Canais ao Vivo, evitando saídas inesperadas da reprodução\n• Melhorias na retomada do último canal e no acesso à lista de canais\n• Recuperação automática aprimorada em travamentos, buffering e falhas de transmissão\n• Melhorias na troca de qualidade e atualização automática dos canais\n• Nova opção de visualização: Tela Cheia ou Lista + Mini Player\n• Melhorias na organização dos canais por qualidade e região\n• Continuar assistindo aprimorado para filmes e séries\n• Navegação mais rápida e prática em Canais e Futebol\n• Otimizações nos players para maior compatibilidade e estabilidade\n• Melhorias no carregamento e atualização dos conteúdos\n• Ajustes visuais nos menus, configurações e controles\n• Melhorias gerais de desempenho em TVs, TV Boxes, projetores e celulares"
 }
